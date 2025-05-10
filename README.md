@@ -26,10 +26,6 @@ cd client
 npm start
 ```
 
-> **username** 🧔: ktrip96
-> 
-> **password** 🔑: 123456
-
 #### Technologies Used:
 - **front end**:
 React JS
