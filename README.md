@@ -1,5 +1,4 @@
 # QnA project 💻
-## Team project for "Software as a Service" course 
 
 #### Description :speech_balloon:: 
 The main purpose of the project, was to build a platform, in which the users can make questions and get answers.
