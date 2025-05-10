@@ -35,5 +35,3 @@ Node JS
 
 - **database**:
 MongoDb
-
-# QnA-project
